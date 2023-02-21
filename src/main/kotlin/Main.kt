@@ -6,4 +6,8 @@ fun main() {
     // verificar a palavra mais longa
     val longhestWord = longhestWord("palmeiras nao tem mundial")
     println(longhestWord)
+
+    //fatorial
+    val fatorial = firstFatorial(4)
+    println(fatorial)
 }
